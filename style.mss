@@ -10,3 +10,9 @@
   Year: {{{year}}}<br/>
   Cause: {{{cause}}}<br/>
   Acres: {{{acres}}}
+
+
+  Full
+Acres: {{{acres}}}<br/>
+Latituge: {{{lat}}}<br/>
+Longitude: {{{long}}}
