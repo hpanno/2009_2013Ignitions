@@ -5,7 +5,7 @@
   marker-fill: #478fee;}
   [cause='Undet.']{
       marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #f45;}
+  marker-fill: #813;}
   [cause='Misc.']{
       marker-file: url(maki/fire-station-18.svg);
   marker-fill: #594;}
@@ -19,6 +19,21 @@
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
   [cause='Debris Burning']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [cause='Campfire']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [cause='Arson']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [cause='P-W-F']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+   [cause='Smoking']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+   [cause='Ltng']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
 }
