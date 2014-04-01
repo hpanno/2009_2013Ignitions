@@ -47,9 +47,7 @@ Legend
     <li><span style='background:#FFC53C;'></span>Equiptment Use</li>
     <li><span style='background:#504f4f;'></span>Other</li>
   </ul>
-</div>
-<div class='legend-source'>Source: <a href="#link to source”>calfireslo.org</a></div>
-</div>
+
 
 <style type='text/css'>
   .my-legend .legend-title {
