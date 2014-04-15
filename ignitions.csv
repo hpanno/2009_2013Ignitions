@@ -1,0 +1,329 @@
+REGION	UNIT	DATE	INCIDENT NUMBER	ACRES	FIRE NAME	CAUSE	LAT	LONG
+Three	San Luis Obispo	1/2/2009	35	1	S HALCYON RD / MESA VIEW	Playing With Fire	35.0811	-120.5869
+Three	San Luis Obispo	1/8/2009	162	0.1	VIA CONCHA RD / WILLOW RD	Undetermined	35.0439	-120.55
+Three	San Luis Obispo	1/9/2009	186	0.1	CARPENTER CANYON RD  SLO_	Undetermined	35.1781	-120.5631
+Three	San Luis Obispo	1/11/2009	233	3	OCEANO	Undetermined	35.105	-120.6311
+Three	San Luis Obispo	1/22/2009	543	0.1	LOS BERROS RD  SLO_CO	Undetermined	35.0831	-120.5531
+Three	San Luis Obispo	2/2/2009	790	0.1	POMEROY RD  NIP	Undetermined	35.0461	-120.5239
+Three	San Luis Obispo	2/2/2009	799	0.1	HUASANA	Undetermined	35.1381	-120.5139
+Three	San Luis Obispo	2/3/2009	822	1	WINTER	Undetermined	35.0539	-120.5861
+Three	San Luis Obispo	2/4/2009	870	0.1	LOS OSOS VALLEY RD /W FOO	Undetermined	35.2769	-120.7119
+Three	San Luis Obispo	2/4/2009	859	0.1	TOLOSA WINERY SLO_CO	Undetermined	35.2311	-120.63
+Three	San Luis Obispo	2/5/2009	886	0.1	DIVISION ST / ORCHARD RD	Undetermined	35.01	-120.5019
+Three	San Luis Obispo	2/20/2009	1242	1	OCEANO DUNES STATE PARK 5	Undetermined	35.105	-120.6311
+Three	San Luis Obispo	2/20/2009	24	0.1		Undetermined	35.1069	-120.6261
+Three	San Luis Obispo	3/7/2009	33	0.1		Undetermined	35.0839	-120.5669
+Three	San Luis Obispo	3/12/2009	1754	0.1	SUMMERWOOD WINERY SLO_CO	Undetermined	35.585	-120.715
+Three	San Luis Obispo	3/14/2009	1807	0.1	CORBETT CANYON RD / VERDE	Undetermined	35.175	-120.5581
+Three	San Luis Obispo	3/26/2009	2076	0.1	NOYES RD / PRINTZ RD	Undetermined	35.1519	-120.5831
+Three	San Luis Obispo	3/28/2009	2130	1	PHOENIX CANYON RD  SLO_CO	Undetermined	35.185	-120.4381
+Three	San Luis Obispo	4/6/2009	2367	2	HWY 166  / COTTONWOOD CAN	Campfire	35.06	-119.8581
+Three	San Luis Obispo	4/14/2009	2594	1	MOORE	Arson	35.1539	-120.5939
+Three	San Luis Obispo	4/14/2009	2615	0.1	WILLOW	Undetermined	35.0469	-120.5681
+Three	San Luis Obispo	4/19/2009	2767	0.1	PRIMROSE LN  NIP	Undetermined	35.0331	-120.495
+Three	San Luis Obispo	4/19/2009	2750	1	CORBETT CANYON RD  SLO_CO	Arson	35.1839	-120.5719
+Three	San Luis Obispo	4/20/2009	2778	0.1	SHORELINE DR  PB	Smoking	35.1589	-120.68
+Three	San Luis Obispo	4/20/2009	2787	2	CAMP 8 RD / HWY 41E	Campfire	35.545	-120.4981
+Three	San Luis Obispo	4/21/2009	2841	1	SAN PASO TRUCK STOP SLO_C	Undetermined	35.6961	-120.6969
+Three	San Luis Obispo	4/21/2009	90	0.1		Undetermined	35.7089	-120.695
+Three	San Luis Obispo	4/26/2009	2989	1	SPRING	Undetermined	35.6561	-120.6969
+Three	San Luis Obispo	4/26/2009	94	0.1		Undetermined	35.7089	-120.695
+Three	San Luis Obispo	4/27/2009	3022	1	INDIAN VALLEY RD / VINEYA	Undetermined	35.7731	-120.6931
+Three	San Luis Obispo	4/28/2009	3050	23	CLARK RD / TRUESDALE RD	Campfire	35.63	-120.3819
+Three	San Luis Obispo	4/28/2009	3054	1	MESA DUNES MHP SLO_CO	Undetermined	35.0761	-120.5889
+Three	San Luis Obispo	4/29/2009	3083	0.1	FORKED HORN PL  SLO_CO	Undetermined	35.6361	-120.55
+Three	San Luis Obispo	4/29/2009	3063	0.1	HUASNA	Undetermined	35.1339	-120.5061
+Three	San Luis Obispo	4/30/2009	97	0.1		Undetermined	35.685	-120.72
+Three	San Luis Obispo	4/30/2009	3103	1	EXLINE RD  SLO_CO	Arson	35.6811	-120.705
+Three	San Luis Obispo	5/2/2009	3182	1	HEMI RD  SLO_CO	Undetermined	35.0839	-120.5269
+Three	San Luis Obispo	5/3/2009	3215	0.5	PARKHILL	Undetermined	35.3989	-120.4981
+Three	San Luis Obispo	5/5/2009	3264	1	BERROS IC	Undetermined	35.075	-120.52
+Three	San Luis Obispo	5/6/2009	3289	0.1	POMEROY RD  NIP	Undetermined	35.0389	-120.5089
+Three	San Luis Obispo	5/6/2009	3294	0.3	ROSSI	Campfire	35.5369	-120.7131
+Three	San Luis Obispo	5/7/2009	3324	1	BRANCH MILL RD / EXCEL WY	Undetermined	35.1519	-120.5281
+Three	San Luis Obispo	5/7/2009	3332	1	N HWY 101  /N HWY 166 OFF	Playing With Fire	34.9931	-120.4339
+Three	San Luis Obispo	5/7/2009	3338	0.1	7TH ST  LOS_OSOS	Undetermined	35.3231	-120.835
+Three	San Luis Obispo	5/8/2009	3365	0.2	EXLINE	Undetermined	35.6831	-120.6969
+Three	San Luis Obispo	5/8/2009	3361	0.1	PEACHY CANYON TASTING ROO	Playing With Fire	35.58	-120.72
+Three	San Luis Obispo	5/8/2009	103	0.1	REST	Undetermined	35.7089	-120.695
+Three	San Luis Obispo	5/8/2009	3339	0.2	S HWY 101  / LOS BERROS R	Campfire	35.075	-120.5211
+Three	San Luis Obispo	5/12/2009	348	0.1		Undetermined	35.3461	-120.6289
+Three	San Luis Obispo	5/13/2009	3500	0.1	CAMP	Undetermined	35.325	-120.7289
+Three	San Luis Obispo	5/13/2009	3499	0.1	N RIVER RD  SAN_MIG	Undetermined	35.7431	-120.685
+Three	San Luis Obispo	5/14/2009	3514	1	CREEK 2	Undetermined	35.4731	-120.8569
+Three	San Luis Obispo	5/14/2009	3523	0.1	RAMADA DR / VOLPI YSABEL	Undetermined	35.5811	-120.6961
+Three	San Luis Obispo	5/14/2009	3517	2	BURTON DR / VILLAGE LN	Campfire	35.5611	-121.0811
+Three	San Luis Obispo	5/16/2009	3573	0.1	S HWY 101  / TASSAJARA CR	Campfire	35.3711	-120.6411
+Three	San Luis Obispo	5/16/2009	3591	0.2	SUEY	Undetermined	35.0031	-120.36
+Three	San Luis Obispo	5/16/2009	3594	0.1	HIGHLAND DR  LOS_OSOS	Undetermined	35.3089	-120.8489
+Three	San Luis Obispo	5/17/2009	3609	0.1	CORBETT CANYON RD  SLO_CO	Undetermined	35.155	-120.56
+Three	San Luis Obispo	5/18/2009	3640	1	STOCKDALE	Campfire	35.6831	-120.6969
+Three	San Luis Obispo	5/18/2009	113	0.1		Undetermined	35.6831	-120.6969
+Three	San Luis Obispo	5/22/2009	117	0.1		Campfire	35.7089	-120.695
+Three	San Luis Obispo	5/23/2009	378	0.1		Undetermined	35.4269	-120.6331
+Three	San Luis Obispo	5/24/2009	3823	0.1	NACIMIENTO RESORT ENTRANC	Undetermined	35.7531	-120.8911
+Three	San Luis Obispo	5/27/2009	3880	0.1	ATASCADERO RD  SLO_CO	Undetermined	35.39	-120.8389
+Three	San Luis Obispo	5/30/2009	3978	3	GUN	Undetermined	35.44	-120.6281
+Three	San Luis Obispo	5/31/2009	3995	0.3	ROCKY	Undetermined	35.47	-120.6239
+Three	San Luis Obispo	6/5/2009	4125	1	S SOUTH BAY BLVD / TURRI	Campfire	35.3369	-120.8231
+Three	San Luis Obispo	6/6/2009	4141	0.1	VIEJO CAMINO   SLO_CO	Undetermined	35.4431	-120.6289
+Three	San Luis Obispo	6/7/2009	4197	0.1	CARMEL	Campfire	35.4281	-120.6189
+Three	San Luis Obispo	6/9/2009	4229	0.3	RIO	Undetermined	35.0911	-120.5781
+Three	San Luis Obispo	6/12/2009	4299	0.1	CIELO LN  SLO_CO	Undetermined	35.015	-120.4819
+Three	San Luis Obispo	6/12/2009	4296	0.1	Fire Wildland	Campfire	35.2761	-120.6419
+Three	San Luis Obispo	6/13/2009	4352	0.1	NANCY AVE / HENRIETTA AVE	Undetermined	35.3169	-120.85
+Three	San Luis Obispo	6/15/2009	4392	1	TYRUS CT  SLO_CO	Playing With Fire	35.0269	-120.5
+Three	San Luis Obispo	6/16/2009	4423	0.5	TWITCHELL	Campfire	35.0161	-120.3561
+Three	San Luis Obispo	6/17/2009	4457	0.1	CAMINO	Campfire	35.0111	-120.51
+Three	San Luis Obispo	6/17/2009	4454	0.1	HIDDEN	Campfire	35.5419	-120.7631
+Three	San Luis Obispo	6/19/2009	38	0.1		Undetermined	35.1431	-120.5461
+Three	San Luis Obispo	6/20/2009	4533	1	COUNTY	Undetermined	35.7789	-120.195
+Three	San Luis Obispo	6/21/2009	4561	0.1	FERRELL AVE / LOS OSOS VA	Undetermined	35.3111	-120.8331
+Three	San Luis Obispo	6/21/2009	4587	0.1	DIVISION ST / MEREDITH AV	Undetermined	35.0281	-120.4811
+Three	San Luis Obispo	6/23/2009	4635	0.1	PICO CREEK SLO_CO	Undetermined	35.6261	-121.1581
+Three	San Luis Obispo	6/23/2009	4614	0.3	ESTRELLA	Undetermined	35.655	-120.5111
+Three	San Luis Obispo	6/24/2009	4659	2	GAGE IRVING RD / RUNNING	Campfire	35.7	-120.9669
+Three	San Luis Obispo	6/27/2009	145	0.1		Undetermined	35.5881	-120.715
+Three	San Luis Obispo	6/27/2009	4749	0.3	ARBOR	Undetermined	35.5989	-120.715
+Three	San Luis Obispo	6/29/2009	4800	1	VF	Undetermined	35.6581	-120.6719
+Three	San Luis Obispo	6/30/2009	4809	1	NACIMIENTO LAKE DR  SLO_C	Undetermined	35.6489	-120.72
+Three	San Luis Obispo	7/1/2009	4857	0.3	N HWY 101  /N THOMPSON AV	Undetermined	35.0681	-120.5119
+Three	San Luis Obispo	7/1/2009	4845	0.5	CHISPA	Campfire	35.4281	-120.6011
+Three	San Luis Obispo	7/1/2009	4856	0.3	MARGARITA	Undetermined	35.385	-120.6289
+Three	San Luis Obispo	7/1/2009	485	0.1		Undetermined	35.3461	-120.6289
+Three	San Luis Obispo	7/4/2009	5011	0.1	DIEGO RIVERA LN / CALLEND	Undetermined	35.0539	-120.5819
+Three	San Luis Obispo	7/5/2009	5040	3	DOVER	Railroad	35.5861	-120.83
+Three	San Luis Obispo	7/6/2009	5073	0.3	N MALLAGH ST  NIP	Playing With Fire	35.0461	-120.4831
+Three	San Luis Obispo	7/6/2009	5068	1	INTERLAKE RD  SLO_CO	Campfire	35.7781	-120.905
+Three	San Luis Obispo	7/7/2009	5112	0.1	TEFFT	Playing With Fire	35.0331	-120.4919
+Three	San Luis Obispo	7/7/2009	5104	0.1	MONTECITO	Undetermined	35.0281	-120.4789
+Three	San Luis Obispo	7/7/2009	5105	1	CHOLAME	Campfire	35.7339	-120.2861
+Three	San Luis Obispo	7/8/2009	5124	0.5	BARNES	Railroad	35.7111	-120.7039
+Three	San Luis Obispo	7/11/2009	5240	0.5	OAK	Undetermined	35.135	-120.605
+Three	San Luis Obispo	7/11/2009	79	0.1		Undetermined	35.1381	-120.6039
+Three	San Luis Obispo	7/11/2009	473	0.1		Undetermined	35.0081	-120.4489
+Three	San Luis Obispo	7/14/2009	5300	0.8	SUNNY	Undetermined	35.2719	-120.7081
+Three	San Luis Obispo	7/15/2009	5333	0.1	ESCABROSO RD / MORRO RD	Undetermined	35.4611	-120.7381
+Three	San Luis Obispo	7/16/2009	5358	0.2	HIGHWAY 2	Campfire	35.66	-120.5611
+Three	San Luis Obispo	7/18/2009	5419	0.1	KING	Campfire	35.5039	-120.605
+Three	San Luis Obispo	7/18/2009	5448	0.1	DUNE	Undetermined	35.105	-120.6311
+Three	San Luis Obispo	7/18/2009	542	0.1		Undetermined	35.3461	-120.6289
+Three	San Luis Obispo	7/19/2009	5453	0.3	SUNBURY	Undetermined	35.5719	-121.1
+Three	San Luis Obispo	7/19/2009	5460	123	LAKE	Campfire	35.7531	-120.8911
+Three	San Luis Obispo	7/21/2009	166	0.1		Undetermined	35.7089	-120.695
+Three	San Luis Obispo	7/21/2009	5518	2	RANCHITA	Undetermined	35.7731	-120.595
+Three	San Luis Obispo	7/23/2009	168	0.1		Undetermined	35.65	-120.72
+Three	San Luis Obispo	7/23/2009	5561	42	NACIMIENTO	Undetermined	35.6569	-120.7261
+Three	San Luis Obispo	7/24/2009	5589	0.1	58	Undetermined	35.4219	-120.6311
+Three	San Luis Obispo	7/25/2009	5629	0.3	PARKHILL	Undetermined	35.3781	-120.4381
+Three	San Luis Obispo	7/26/2009	5659	0.1	SPRINGS	Undetermined	35.6239	-120.615
+Three	San Luis Obispo	7/26/2009	174	0.1		Undetermined	35.615	-120.6131
+Three	San Luis Obispo	7/28/2009	5714	0.1	EL CAMINO REAL  /S HWY 10	Campfire	35.3831	-120.63
+Three	San Luis Obispo	7/28/2009	571	0.1		Undetermined	35.3461	-120.6289
+Three	San Luis Obispo	8/4/2009	5905	0.1	TV TOWER RD / BOTANICAL T	Undetermined	35.3619	-120.6569
+Three	San Luis Obispo	8/6/2009	5927	1	CAMINO EDNA  / CORBETT CA	Undetermined	35.1919	-120.5861
+Three	San Luis Obispo	8/7/2009	536	0.1		Undetermined	35.0319	-120.4931
+Three	San Luis Obispo	8/7/2009	5980	3	S RIVER RD / LOTHAR LN	Undetermined	35.58	-120.6589
+Three	San Luis Obispo	8/7/2009	5978	1.5	WEST	Campfire	35.0319	-120.4931
+Three	San Luis Obispo	8/8/2009	6003	0.1	POGUE	Campfire	35.0169	-120.4511
+Three	San Luis Obispo	8/8/2009	6020	0.1	MERRY	Undetermined	35.0361	-120.4869
+Three	San Luis Obispo	8/10/2009	6073	0.5	ONTARIO	Undetermined	35.2239	-120.6919
+Three	San Luis Obispo	8/13/2009	6144	1	THOMPSON	Campfire	34.9961	-120.4339
+Three	San Luis Obispo	8/17/2009	6269	0.1	PC451  Arson/	Undetermined	35.1531	-120.5869
+Three	San Luis Obispo	8/23/2009	6400	1	DIVISION ST / GUADALUPE R	Undetermined	34.9911	-120.57
+Three	San Luis Obispo	8/24/2009	6443	0.3	CRESTON RD  SLO_CO	Undetermined	35.5861	-120.63
+Three	San Luis Obispo	8/28/2009	6535	1	ZENON WY  SLO_CO	Undetermined	35.06	-120.5639
+Three	San Luis Obispo	8/29/2009	659	0.1		Undetermined	35.5431	-120.7639
+Three	San Luis Obispo	8/29/2009	6597	0.1	HIDDEN	Undetermined	35.5431	-120.765
+Three	San Luis Obispo	8/29/2009	6576	1	PINES	Undetermined	35.5769	-121.0969
+Three	San Luis Obispo	8/31/2009	6644	0.3	SHADOW CANYON RD  SLO_CO	Campfire	35.5589	-120.8419
+Three	San Luis Obispo	9/2/2009	6690	0.1	MORRO	Undetermined	35.3989	-120.8289
+Three	San Luis Obispo	9/4/2009	6742	1	OSOS	Undetermined	35.2769	-120.7119
+Three	San Luis Obispo	9/6/2009	6812	0.1	7TH ST  LOS_OSOS	Undetermined	35.3219	-120.835
+Three	San Luis Obispo	9/6/2009	6826	1	LOS BERROS RD / POMEROY R	Campfire	35.0789	-120.5431
+Three	San Luis Obispo	9/10/2009	6920	0.1	SANTA RITA RD / SANTA RIT	Undetermined	35.5269	-120.7969
+Three	San Luis Obispo	9/10/2009	6911	1	OLIVE	Undetermined	35.7789	-120.195
+Three	San Luis Obispo	9/16/2009	7051	0.1	SEE CANYON RD  SLO_CO	Campfire	35.1981	-120.715
+Three	San Luis Obispo	9/22/2009	7224	1	HAZEL LN / DIVISION ST	Undetermined	35.0211	-120.4889
+Three	San Luis Obispo	9/22/2009	7214	0.1	VINEYARD DR  SLO_CO	Campfire	35.5531	-120.7511
+Three	San Luis Obispo	9/22/2009	7213	1	N HWY 1  / KANSAS AVE	Playing With Fire	35.3211	-120.7169
+Three	San Luis Obispo	9/24/2009	7282	0.1	ANDERSON	Undetermined	35.5739	-120.7331
+Three	San Luis Obispo	9/24/2009	7276	1	CRIPPLE CREEK RD / CRESTO	Campfire	35.5711	-120.5611
+Three	San Luis Obispo	9/25/2009	7319	0.7	CURL	Undetermined	35.5019	-120.4819
+Three	San Luis Obispo	9/25/2009	7324	0.1	NACIMIENTO RESORT LODGES	Undetermined	35.755	-120.9011
+Three	San Luis Obispo	9/27/2009	7381	0.1	ORCUTT	Campfire	35.2439	-120.6131
+Three	San Luis Obispo	9/29/2009	7418	0.1	RESERVOIR	Undetermined	35.2961	-120.63
+Three	San Luis Obispo	10/1/2009	7492	12.1	SCHOOL	Undetermined	35.5581	-121.0761
+Three	San Luis Obispo	10/1/2009	7494	0.1	S HWY 101  / AVILA BEACH	Undetermined	35.1761	-120.6981
+Three	San Luis Obispo	10/3/2009	230	0.1		Undetermined	35.6031	-120.605
+Three	San Luis Obispo	10/3/2009	7544	0.3	LINNE	Undetermined	35.5969	-120.5981
+Three	San Luis Obispo	10/4/2009	7567	0.1	S HALCYON RD / EL CAMPO R	Undetermined	35.0739	-120.5761
+Three	San Luis Obispo	10/7/2009	7633	0.1	BEACON	Undetermined	35.6739	-120.6081
+Three	San Luis Obispo	10/8/2009	7641	0.1	COTTONWOOD	Campfire	35.7831	-120.2019
+Three	San Luis Obispo	10/9/2009	7680	1	EAGLE	Undetermined	35.4289	-120.7081
+Three	San Luis Obispo	10/12/2009	7754	45	NORTH	Arson	35.2481	-120.8531
+Three	San Luis Obispo	10/14/2009	7878	0.1	COUNTRY OAK WY / LOPEZ DR	Undetermined	35.1461	-120.5511
+Three	San Luis Obispo	10/17/2009	7959	10	PLANT	Undetermined	35.2561	-120.8881
+Three	San Luis Obispo	10/30/2009	8298	0.1	HWY 46W  / VINEYARD DR	Undetermined	35.5531	-120.7611
+Three	San Luis Obispo	10/31/2009	8306	3	LOPEZ	Undetermined	35.21	-120.485
+Three	San Luis Obispo	11/1/2009	8337	1	RIM ROCK	Campfire	35.0711	-120.5061
+Three	San Luis Obispo	11/8/2009	974	0.1		Undetermined	34.9969	-120.35
+Three	San Luis Obispo	11/8/2009	8495	84	HIGHWAY	Campfire	35.0161	-120.3561
+Three	San Luis Obispo	11/15/2009	8693	0.1	HOLLISTER LN  LOS_OSOS	Undetermined	35.3189	-120.8239
+Three	San Luis Obispo	11/29/2009	9054	0.1	HI MOUNTAIN RD / HI MOUNT	Undetermined	35.25	-120.3839
+Three	San Luis Obispo	11/30/2009	9093	0.3	S HWY 101  /S HIGUERA ST	Undetermined	35.2239	-120.6919
+Three	San Luis Obispo	12/2/2009	9122	0.1	TEMATATTE RIDGE RD  SLO_C	Undetermined	35.0881	-120.4839
+Three	San Luis Obispo	12/8/2009	9275	1	CUESTA GRADE NB(MIDDLE) S	Undetermined	35.3331	-120.6239
+Three	San Luis Obispo	12/15/2009	9452	0.1	BUCKLEY RD / HOOVER RD	Undetermined	35.2361	-120.6561
+Three	San Luis Obispo	1/2/2010	5	5		Undetermined	35.0289	-120.1931
+Three	San Luis Obispo	1/15/2010	397	0.1	N HWY 101  /W TEFFT ST N	Undetermined	35.0489	-120.495
+Three	San Luis Obispo	1/16/2010	423	0.1	ROLLING RANCH RD  SLO_CO	Undetermined	35.5531	-120.6039
+Three	San Luis Obispo	1/18/2010	483	0.1	14 SLO_CO	Campfire	35.46	-120.7469
+Three	San Luis Obispo	1/28/2010	855	0.1	STENNER CREEK RD  SLO_CO	Undetermined	35.3081	-120.6811
+Three	San Luis Obispo	1/30/2010	915	0.1	LA CUMBRE LN / PABLO LN	Undetermined	35.0139	-120.5069
+Three	San Luis Obispo	2/1/2010	971	0.1	FIRE	Undetermined	35.1411	-120.5769
+Three	San Luis Obispo	2/6/2010	1072	0.1	W TEFFT ST /N LAS FLORES	Undetermined	35.0139	-120.5039
+Three	San Luis Obispo	2/8/2010	1156	0.1	JUNIPER ST /N FRONTAGE RD	Undetermined	35.04	-120.4881
+Three	San Luis Obispo	2/17/2010	1378	0.1	VIA PALOMA   SLO_CO	Undetermined	35.5981	-120.6811
+Three	San Luis Obispo	2/18/2010	1397	0.1	EUCALYPTUS RD / OSAGE ST	Undetermined	35.0211	-120.5119
+Three	San Luis Obispo	2/20/2010	1441	0.1	ORCUTT RD / TANK FARM RD	Undetermined	35.2611	-120.6211
+Three	San Luis Obispo	2/20/2010	1443	0.1	LEWIS LN  SLO_CO	Undetermined	35.2069	-120.62
+Three	San Luis Obispo	2/28/2010	1637	0.1	OLD OAK PARK RD / MOORE L	Undetermined	35.1531	-120.5989
+Three	San Luis Obispo	3/16/2010	2025	0.1	HORIZON LN / SANTA RITA R	Undetermined	35.5289	-120.7419
+Three	San Luis Obispo	3/19/2010	2103	0.1	11TH ST  LOS_OSOS	Undetermined	35.3239	-120.8311
+Three	San Luis Obispo	3/22/2010	2182	0.1	BAY ST / DOLLIVER ST	Undetermined	35.1461	-120.645
+Three	San Luis Obispo	3/26/2010	2264	0.1	PRINTZ	Arson	35.1411	-120.5761
+Three	San Luis Obispo	3/26/2010	2273	0.1	ROCKY CANYON RD / HWY 41E	Undetermined	35.5039	-120.6519
+Three	San Luis Obispo	3/26/2010	2257	0.1	PEARLIE LN  NIP	Undetermined	35.025	-120.48
+Three	San Luis Obispo	4/17/2010	2853	0.1	EL CAMPO	Campfire	35.1111	-120.5639
+Three	San Luis Obispo	4/25/2010	3018	0.1	RIDGE RD / SANTA RITA RD	Undetermined	35.5361	-120.7281
+Three	San Luis Obispo	4/26/2010	3049	0.1	CHAROLAIS RD  SLO_CO	Undetermined	35.6031	-120.6689
+Three	San Luis Obispo	5/1/2010	3169	0.1	FOX	Railroad	35.325	-120.7289
+Three	San Luis Obispo	5/12/2010	3454	0.1	EUCALYPTUS RD  SLO_CO	Undetermined	35.0211	-120.5319
+Three	San Luis Obispo	5/24/2010	3750	0.2	LA PANZA	Undetermined	35.4689	-120.3789
+Three	San Luis Obispo	5/25/2010	3771	1	HILL	Campfire	35.3761	-120.4081
+Three	San Luis Obispo	5/25/2010	3763	1	TRUE	Campfire	35.5981	-120.3381
+Three	San Luis Obispo	5/27/2010	3824	0.1	HILL ST / BLUME ST	Undetermined	35.0319	-120.4869
+Three	San Luis Obispo	5/27/2010	3827	3	BELMONT TRL / SODA LAKE R	Undetermined	35.3081	-119.9869
+Three	San Luis Obispo	5/28/2010	3855	0.1	N RIVER RD  PR	Campfire	35.6511	-120.685
+Three	San Luis Obispo	6/5/2010	4144	5	LUPINE LN  SLO_CO	Undetermined	35.535	-120.6631
+Three	San Luis Obispo	6/6/2010	4183	0.1	S HWY 101  / FIVE CITIES	Undetermined	35.1381	-120.6311
+Three	San Luis Obispo	6/8/2010	4233	0.1	SOFTCHESS PL  SLO_CO	Undetermined	35.1831	-120.54
+Three	San Luis Obispo	6/9/2010	4248	5	RANCH	Campfire	35.5681	-120.6389
+Three	San Luis Obispo	6/11/2010	4309	5	ORCUTT	Campfire	35.1969	-120.5661
+Three	San Luis Obispo	6/12/2010	4343	9	ESTRELLA	Undetermined	35.7181	-120.6411
+Three	San Luis Obispo	6/12/2010	433	0.1		Undetermined	35.5611	-120.6711
+Three	San Luis Obispo	6/12/2010	4338	5	POMAR	Campfire	35.5631	-120.665
+Three	San Luis Obispo	6/13/2010	4377	0.3	CUESTA	Undetermined	35.3489	-120.6311
+Three	San Luis Obispo	6/17/2010	4480	1	BLUE	Undetermined	35.4411	-120.4881
+Three	San Luis Obispo	6/20/2010	4590	1	LAKE	Campfire	35.6839	-120.7589
+Three	San Luis Obispo	6/22/2010	4635	1	CRESTON	Undetermined	35.5561	-120.535
+Three	San Luis Obispo	6/24/2010	4696	1	FEENSTRA	Campfire	35.5661	-120.5561
+Three	San Luis Obispo	6/24/2010	68	0.1		Undetermined	35.135	-120.5731
+Three	San Luis Obispo	6/25/2010	4729	0.9	MARGARITA	Undetermined	35.3989	-120.6131
+Three	San Luis Obispo	6/26/2010	4751	250	CREEK	Undetermined	35.3311	-120.7331
+Three	San Luis Obispo	6/27/2010	4781	1	THE Y SLO_CO	Undetermined	35.7339	-120.2861
+Three	San Luis Obispo	6/28/2010	4816	5	CHIA	Undetermined	35.445	-120.6081
+Three	San Luis Obispo	6/28/2010	140	0.1		Campfire	35.7089	-120.695
+Three	San Luis Obispo	6/29/2010	4843	1	ESTRELLA RD / JARDINE RD	Undetermined	35.7019	-120.6031
+Three	San Luis Obispo	6/30/2010	4867	1	ARCIERO	Campfire	35.6561	-120.4061
+Three	San Luis Obispo	7/1/2010	4903	1	VIA	Undetermined	35.045	-120.55
+Three	San Luis Obispo	7/3/2010	4960	0.1	PIRATES COVE SLO_CO	Undetermined	35.1739	-120.7181
+Three	San Luis Obispo	7/3/2010	4985	1	MONTEREY RD / WELLSONA RD	Undetermined	35.6961	-120.6939
+Three	San Luis Obispo	7/3/2010	4972	0.3	UNION RD / PENMAN SPRINGS	Arson	35.63	-120.6139
+Three	San Luis Obispo	7/4/2010	5053	0.1	PISMO LIFEGUARD TOWER 1 2	Undetermined	35.1361	-120.6411
+Three	San Luis Obispo	7/4/2010	5064	0.1	ADDIE ST / DOLLIVER ST	Undetermined	35.1381	-120.6381
+Three	San Luis Obispo	7/4/2010	5072	0.1	PISMO PIER PB 8	Undetermined	35.1389	-120.6439
+Three	San Luis Obispo	7/4/2010	5055	0.1	PISMO LIFEGUARD TOWER 4 P	Undetermined	35.1419	-120.645
+Three	San Luis Obispo	7/4/2010	5007	31	BEAR	Arson	35.2931	-119.9289
+Three	San Luis Obispo	7/4/2010	5034	0.1	N HWY 1  / TORO CREEK RD	Undetermined	35.415	-120.8739
+Three	San Luis Obispo	7/6/2010	5118	0.1	JARDINE RD / ESTRELLA RD	Campfire	35.7019	-120.6031
+Three	San Luis Obispo	7/8/2010	5171	0.1	HONEY GROVE LN  NIP	Undetermined	35.02	-120.4789
+Three	San Luis Obispo	7/11/2010	5252	0.1	POMEROY RD  NIP	Undetermined	35.0389	-120.5089
+Three	San Luis Obispo	7/11/2010	5264	0.1	NACIMIENTO LAKE DR  SLO_C	Campfire	35.7631	-120.8861
+Three	San Luis Obispo	7/15/2010	5381	0.1	N RIVER RD  SLO_CO	Undetermined	35.6689	-120.69
+Three	San Luis Obispo	7/16/2010	5421	10	DAIRY CREEK GOLF COURSE S	Undetermined	35.3311	-120.7331
+Three	San Luis Obispo	7/17/2010	5459	17	MARCOS	Undetermined	35.7219	-120.6981
+Three	San Luis Obispo	7/17/2010	5460	4	CRESTON	Undetermined	35.56	-120.5381
+Three	San Luis Obispo	7/18/2010	484	0.1		Undetermined	35.0019	-120.3611
+Three	San Luis Obispo	7/18/2010	5489	1	TWITCHELL	Campfire	35.0219	-120.3119
+Three	San Luis Obispo	7/24/2010	5683	0.1	PICO	Undetermined	35.6261	-121.1581
+Three	San Luis Obispo	7/30/2010	5849	0.1	N HWY 101  /W TEFFT ST  2	Undetermined	35.0389	-120.4869
+Three	San Luis Obispo	7/30/2010	5846	0.5	N HWY 101  /W TEFFT ST N	Undetermined	35.0389	-120.4869
+Three	San Luis Obispo	8/1/2010	5907	1	HWY 46W AT THE SUMMIT SLO	Undetermined	35.5369	-120.8239
+Three	San Luis Obispo	8/3/2010	176	0.1		Undetermined	35.6119	-120.6361
+Three	San Luis Obispo	8/3/2010	5964	7	LINNE	Undetermined	35.6081	-120.6089
+Three	San Luis Obispo	8/4/2010	177	0.1		Undetermined	35.685	-120.73
+Three	San Luis Obispo	8/4/2010	6001	1	SHALEROCK RD  SLO_CO	Undetermined	35.6411	-120.5681
+Three	San Luis Obispo	8/4/2010	6002	2	MUSTARD	Undetermined	35.6739	-120.73
+Three	San Luis Obispo	8/5/2010	178	0.1		Playing With Fire	35.7089	-120.695
+Three	San Luis Obispo	8/10/2010	6176	0.1	CORAL CIR  PB	Undetermined	35.14	-120.6281
+Three	San Luis Obispo	8/15/2010	6315	1	HWY 46E  / MCMILLAN CANYO	Campfire	35.6611	-120.4139
+Three	San Luis Obispo	8/16/2010	6332	0.1	ADELAIDA RD  SLO_CO	Undetermined	35.6519	-120.7519
+Three	San Luis Obispo	8/21/2010	6481	1200	POZO	Undetermined	35.3111	-120.3581
+Three	San Luis Obispo	8/22/2010	6527	0.5	KILER	Campfire	35.605	-120.7231
+Three	San Luis Obispo	8/23/2010	6554	0.1	SAN BERNARDO CREEK RD  SL	Undetermined	35.3619	-120.8069
+Three	San Luis Obispo	8/25/2010	6594	0.1	ASUNCION RD / EL CAMINO R	Undetermined	35.435	-120.6039
+Three	San Luis Obispo	8/28/2010	6700	0.1	HWY 46W  / OLD CREEK RD	Undetermined	35.5339	-120.8589
+Three	San Luis Obispo	8/28/2010	6687	3	PILITAS	Campfire	35.37	-120.4431
+Three	San Luis Obispo	8/30/2010	6752	1	N HWY 101  / 4TH ST ON RA	Campfire	35.1369	-120.625
+Three	San Luis Obispo	8/30/2010	6755	0.5	LAKE	Undetermined	35.3189	-120.5089
+Three	San Luis Obispo	8/31/2010	6769	0.8	THE Y SLO_CO	Undetermined	35.7339	-120.2861
+Three	San Luis Obispo	9/2/2010	6840	4	GENESEO	Campfire	35.5769	-120.5489
+Three	San Luis Obispo	9/4/2010	6885	0.3	31 SHAN	Undetermined	35.655	-120.3681
+Three	San Luis Obispo	9/6/2010	6963	4	BITTERWATER	Campfire	35.6481	-120.2119
+Three	San Luis Obispo	9/7/2010	6976	1	BIDDLE COUNTY PARK SLO_CO	Undetermined	35.1811	-120.5181
+Three	San Luis Obispo	9/7/2010	6990	2	TRACY	Arson	35.3661	-120.0411
+Three	San Luis Obispo	9/10/2010	7092	0.3	N HWY 101  / AVILA BEACH	Campfire	35.175	-120.6969
+Three	San Luis Obispo	9/11/2010	7109	0.1	S HWY 101  / TASSAJARA CR	Undetermined	35.3711	-120.6411
+Three	San Luis Obispo	9/11/2010	7126	1	JACK RANCH CAFE SLO_CO	Undetermined	35.7169	-120.3019
+Three	San Luis Obispo	9/11/2010	7125	0.1	ESTRELLA RD / JARDINE RD	Undetermined	35.7019	-120.6031
+Three	San Luis Obispo	9/13/2010	7180	1	RYAN	Undetermined	35.5281	-120.5131
+Three	San Luis Obispo	9/14/2010	212	0.1		Undetermined	35.6569	-120.5281
+Three	San Luis Obispo	9/15/2010	7247	0.1	HIGUERA	Campfire	35.2	-120.6981
+Three	San Luis Obispo	9/16/2010	7271	0.1	HI MOUNTAIN RD  SLO_CO	Undetermined	35.19	-120.4339
+Three	San Luis Obispo	9/17/2010	7298	0.3	SHANDON	Undetermined	35.655	-120.3819
+Three	San Luis Obispo	9/18/2010	7323	0.2	S HWY 101  / WELLSONA RD	Undetermined	35.6961	-120.6969
+Three	San Luis Obispo	9/20/2010	7381	3.5	WATERS END RD / UPPER LOP	Playing With Fire	35.2289	-120.4739
+Three	San Luis Obispo	9/21/2010	7405	1	CUESTA	Campfire	35.345	-120.7669
+Three	San Luis Obispo	9/21/2010	7407	1	GILARDI	Campfire	35.355	-120.785
+Three	San Luis Obispo	9/26/2010	756	0.1		Undetermined	35.7089	-120.695
+Three	San Luis Obispo	9/26/2010	7549	0.1	PARKHILL RD / SEVEN OAKS	Undetermined	35.3931	-120.5219
+Three	San Luis Obispo	9/27/2010	7596	1	BITTERWATER RD / GILLIS C	Campfire	35.6481	-120.2119
+Three	San Luis Obispo	9/27/2010	7599	0.1	EL POMAR DR / VAQUERO DR	Undetermined	35.5589	-120.6319
+Three	San Luis Obispo	9/28/2010	7634	1	ALBERT	Undetermined	35.0469	-120.5589
+Three	San Luis Obispo	9/28/2010	7642	0.3	NOEL WY  SLO_CO	Campfire	35.6311	-121.0931
+Three	San Luis Obispo	10/2/2010	7768	1	HUASNA	Lightning	35.0831	-120.3181
+Three	San Luis Obispo	10/4/2010	7828	1	GUADALUPE RD / OLIVERA AV	Undetermined	35.04	-120.5681
+Three	San Luis Obispo	10/9/2010	7961	0.5	NACIMIENTO	Undetermined	35.6519	-120.7239
+Three	San Luis Obispo	10/9/2010	7983	0.1	GREEN VALLEY RD / HWY 46W	Undetermined	35.5411	-121.0061
+Three	San Luis Obispo	10/9/2010	7955	0.1	SAN JUAN RD / TOBY WAY	Arson	35.655	-120.3639
+Three	San Luis Obispo	10/9/2010	7974	200	LAKE	Campfire	35.7611	-120.885
+Three	San Luis Obispo	10/11/2010	8019	1	MARCOS	Undetermined	35.7219	-120.6981
+Three	San Luis Obispo	10/13/2010	8057	2	ANTELOPE GRADE SLO_CO	Undetermined	35.7439	-120.23
+Three	San Luis Obispo	10/18/2010	8178	0.1	SALINAS RD / SANTA CLARA	Undetermined	35.4431	-120.6111
+Three	San Luis Obispo	10/23/2010	8311	0.1	EDNA RD  SLO_CO	Undetermined	35.205	-120.6131
+Three	San Luis Obispo	10/26/2010	8386	185	ANTELOPE	Campfire	35.7269	-120.195
+Three	San Luis Obispo	10/27/2010	8431	1	FRONT ST / SAN RAFAEL ST	Undetermined	35.1781	-120.73
+Three	San Luis Obispo	10/27/2010	8421	0.1	SAN LUISITO CREEK RD /S H	Campfire	35.355	-120.785
+Three	San Luis Obispo	10/29/2010	8461	23	ROCKY	Arson	35.4911	-120.5419
+Three	San Luis Obispo	10/29/2010	8477	0.1	N SANTA MARGARITA RD / ME	Undetermined	35.435	-120.6281
+Three	San Luis Obispo	11/6/2010	8682	0.1	HUNTER PL  SLO_CO	Undetermined	35.6861	-120.6989
+Three	San Luis Obispo	11/6/2010	8675	0.1	EL POMAR DR  SLO_CO	Undetermined	35.5589	-120.6869
+Three	San Luis Obispo	11/6/2010	8681	0.1	CRESTON EUREKA RD / HOMES	Undetermined	35.5111	-120.6381
+Three	San Luis Obispo	11/11/2010	8801	1	CONCHO	Playing With Fire	35.5739	-120.6731
+Three	San Luis Obispo	11/12/2010	8821	0.1	VINEYARD	Undetermined	35.5739	-120.7931
+Three	San Luis Obispo	11/13/2010	8855	0.5	DOVE	Playing With Fire	35.5461	-120.7581
+Three	San Luis Obispo	11/16/2010	8922	1.5	CAMP 8 RD / CRESTON RD	Undetermined	35.56	-120.51
+Three	San Luis Obispo	11/16/2010	8936	0.1	CORBETT CANYON RD / TIFFA	Undetermined	35.1919	-120.5861
+Three	San Luis Obispo	11/20/2010	9026	0.1	RAMADA DR /N MAIN ST	Campfire	35.565	-120.7011
+Three	San Luis Obispo	11/24/2010	9121	0.1	HWY 1  / VILLA CREEK RD	Undetermined	35.4689	-120.9781
+Three	San Luis Obispo	11/26/2010	9171	0.1	ROCKY BUTTE TRUCK TRL / B	Undetermined	35.7769	-121.1839
+Three	San Luis Obispo	11/26/2010	9180	0.1	S HWY 101  / TASSAJARA CR	Undetermined	35.3739	-120.6489
+Three	San Luis Obispo	12/2/2010	9329	0.1	ORCHARD RD / CHERRY BLOSS	Undetermined	35.015	-120.4769
+Three	San Luis Obispo	12/3/2010	9354	0.1	WHITE OAK RD / RIDGE RD	Undetermined	35.5181	-120.73
+Three	San Luis Obispo	12/9/2010	9506	0.1	CLARKSBURG RD / BELMONT T	Undetermined	35.3081	-119.9431
+Three	San Luis Obispo	12/13/2010	9602	0.1	AVILA VALLEY DR  SLO_CO	Undetermined	35.1931	-120.7069
+Three	San Luis Obispo	12/16/2010	9678	0.1	DALE AVE / HETRICK AVE	Undetermined	35.0719	-120.5231
+Three	San Luis Obispo	12/31/2010	10152	0.1	LONGVIEW AVE  PB	Undetermined	35.1531	-120.6361
+Three	San Luis Obispo	12/31/2010	10151	0.1	GERONIMO	Undetermined	35.45	-120.9331
