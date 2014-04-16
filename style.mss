@@ -1,54 +1,43 @@
   Symbology
 #Ignitions {
-  [cause='Vehicle']{
-      marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #478fee;}
-  [cause='Undet.']{
-      marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #813;}
-  [cause='Misc.']{
-      marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #594;}
-  [cause='Equip. Use']{
+  [CAUSE='Arson']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [CAUSE='Campfire']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [CAUSE='Debris Burning']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [CAUSE='Equipment Use']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #FFC53C;}
-  [cause='Electrical Power']{
+  [CAUSE='Playing With Fire']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
-  [cause='Railroad']{
+  [CAUSE='Smoking']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
-  [cause='Debris Burning']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #504f4f;}
-  [cause='Campfire']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #504f4f;}
-  [cause='Arson']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #504f4f;}
-  [cause='P-W-F']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #504f4f;}
-   [cause='Smoking']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #504f4f;}
-   [cause='Ltng']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #504f4f;}
-}
+  [CAUSE='Undetermined']{
+      marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #813;}
+  [CAUSE='Vehicle']{
+      marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #478fee;}
+  }
   
   Teaser
   
-  Year: {{{year}}}<br/>
-  Cause: {{{cause}}}<br/>
-  Acres: {{{acres}}}
+Date: {{{DATE}}}<br/>
+Cause: {{{CAUSE}}}<br/>
+Acres: {{{ACRES}}}<br/>
+Fire Name: {{{FIRE NAME}}}
 
 
-  Full
-Acres: {{{acres}}}<br/>
-Latituge: {{{lat}}}<br/>
-Longitude: {{{long}}}
+Full
+Latituge: {{{LAT}}}<br/>
+Longitude: {{{LONG}}}
+
 
 
 Legend
@@ -57,8 +46,7 @@ Legend
 <div class='legend-scale'>
   <ul class='legend-labels'>
     <li><span style='background:#478fee;'></span>Vehicle</li>
-    <li><span style='background:#f45;'></span>Undetermined</li>
-    <li><span style='background:#594;'></span>Miscellaneous</li>
+    <li><span style='background:#813;'></span>Undetermined</li>
     <li><span style='background:#FFC53C;'></span>Equiptment Use</li>
     <li><span style='background:#504f4f;'></span>Other</li>
   </ul>
