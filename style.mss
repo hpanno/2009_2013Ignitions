@@ -1,6 +1,18 @@
   Symbology
-#Ignitions {
-  [CAUSE='Arson']{
+#DefinedIgnitions {
+  [CAUSE='Equipment Use']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #FFC53C;}
+  [CAUSE='Undetermined']{
+      marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #813;}
+  [CAUSE='Vehicle']{
+      marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #478fee;}
+  }
+
+#Other {
+ [CAUSE='Arson']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
   [CAUSE='Campfire']{
@@ -9,22 +21,21 @@
   [CAUSE='Debris Burning']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
-  [CAUSE='Equipment Use']{
-    marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #FFC53C;}
-  [CAUSE='Playing With Fire']{
+[CAUSE='Playing With Fire']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
   [CAUSE='Smoking']{
     marker-file: url(maki/fire-station-18.svg);
   marker-fill: #504f4f;}
-  [CAUSE='Undetermined']{
-      marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #813;}
-  [CAUSE='Vehicle']{
-      marker-file: url(maki/fire-station-18.svg);
-  marker-fill: #478fee;}
+  [CAUSE='Lightning']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
+  [CAUSE='Railroad']{
+    marker-file: url(maki/fire-station-18.svg);
+  marker-fill: #504f4f;}
   }
+  
+  
   
   Teaser
   
